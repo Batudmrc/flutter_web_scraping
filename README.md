@@ -1,16 +1,8 @@
-# web_scraping
+# flutter_web_scraping
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/87566024/191544259-6577f8f1-495f-424d-ab75-ffe998536fc7.mp4
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Scraped Data : 
+![Scraped data](https://user-images.githubusercontent.com/87566024/191544424-4f9f5b05-9f89-499f-8023-3c35cb5db6f9.png)
